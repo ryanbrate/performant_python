@@ -2,7 +2,7 @@
 
     Obviously, the outcomes are very dependent on the test cases...
 
-# Notation
+## Notation
 
 (case1), case4 >> case2, case3
 
@@ -22,7 +22,7 @@ i.e., (case 1 - with min point estimate exectution mean), was tested against 2,3
 * Test: Return the sum of a randomly shuffled list of 1e6 numbers
 (sum()) >> reduce()
 
-# Casting iterators/ generators to lists
+## Casting iterators/ generators to lists
 
     takeaway: **use list comprehensions in preference to casting iterators**
 
