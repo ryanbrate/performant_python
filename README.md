@@ -1,4 +1,4 @@
-# A (very basic) look at the most performant python operation options
+# A (very basic) look at the (statistically significant) most performant python operation options
 
     Obviously, the outcomes are very dependent on the test cases...
 
